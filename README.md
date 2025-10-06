@@ -1,4 +1,4 @@
-# 1-Python-Data-types
+# 1-Python-Data-types 
 ## Переменные
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=variable+%3D+value)](https://git.io/typing-svg)
 
